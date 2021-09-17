@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Shivansh Gupta
 - 🏫 I'm currently a junior year undergrad at JIIT, Noida.
-- 👀 I’m interested in React.js and python open source projects.
+- 👀 I’m interested in React.js and open source projects.
 - 🌱 I’m currently learning Next.js and docker.
 - 💬 Ask me about any tech related query.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/shivansh340/">Linkedin</a> <a href="mailto:shivanshgupta340@gmail.com">Gmail</a> 
