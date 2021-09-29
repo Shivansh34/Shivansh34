@@ -30,5 +30,4 @@
 
 [hackerrank]: https://www.hackerrank.com/shivanshgupta34
 [linkedin]: https://www.linkedin.com/in/shivansh340/
-[github]: https://github.com/rjrealworld
 
